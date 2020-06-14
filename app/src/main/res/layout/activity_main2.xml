@@ -104,7 +104,7 @@
 
     <Button
         android:id="@+id/Back"
-        android:layout_width="200dp"
+        android:layout_width="201dp"
         android:layout_height="wrap_content"
         android:onClick="back"
         android:text="Back" />
